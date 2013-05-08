@@ -12,7 +12,7 @@ Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/IO/%{pdir}-%{pnam}-%{version}.tar.gz
- Source0-md5:	6ca9b8b8afc8b7d5e85985ea864d2431
+# Source0-md5:	6ca9b8b8afc8b7d5e85985ea864d2431
 URL:		http://search.cpan.org/dist/IO-Interactive/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
