@@ -4,7 +4,6 @@
 #
 %define		pdir	IO
 %define		pnam	Interactive
-%include	/usr/lib/rpm/macros.perl
 Summary:	IO::Interactive - Utilities for interactive I/O
 Name:		perl-IO-Interactive
 Version:	0.0.6
