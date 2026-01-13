@@ -7,7 +7,7 @@
 Summary:	IO::Interactive - Utilities for interactive I/O
 Name:		perl-IO-Interactive
 Version:	0.0.6
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/IO/%{pdir}-%{pnam}-%{version}.tar.gz
